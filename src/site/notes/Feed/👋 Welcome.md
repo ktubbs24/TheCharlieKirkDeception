@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/feed/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-05T21:28:12.000-07:00","updated":"2025-10-15T01:13:14.372-07:00"}
+{"dg-publish":true,"permalink":"/feed/welcome/","tags":["gardenEntry"],"noteIcon":"","created":"2025-10-05T21:28:12.000-07:00","updated":"2025-10-15T01:22:17.610-07:00"}
 ---
 
 
 # 👋 Welcome
+
+[[Timeline/Blog/October 2025/06/2025-10-06-A dangerous quote attributed to Charlie Kirk that gives the illusion of the truth but is not\|2025-10-06-A dangerous quote attributed to Charlie Kirk that gives the illusion of the truth but is not]]
 
 ---
 this is my welcome page here 
